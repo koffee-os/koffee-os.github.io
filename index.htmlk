@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Сайт FoxOS</title>
+</head>
+<body style="background: #0d1117; font-family: monospace; padding: 20px; line-height: 1.6;">
+
+    <!-- Главное название (Оранжевое) -->
+    <h1 style="color: #f0883e; font-size: 24px; margin-bottom: 15px;">
+        FoxOS: Проект разработчика под ником в майнкрафт Koffee545 на основе систем с открытым исходным кодом!
+    </h1>
+       
+       
+       
+       <h1>   |                                                               /\ </h1>
+  <h1 style="color: #ffcc00;">koffee-os.github.io: Простите разработчик сейчас не сможет выложить проект никак:( номожет скоро он починит и сможет:)                                                                                        Кстати ссылки пока неработают:χ</h1>
+
+       <!-- да я понимаю вас но я не могу. пока-что не могу-->
+       
+    <!-- Описание (Светло-серый, хорошо видно на темном) -->
+    <p style="color: #c9d1d9; font-size: 16px; margin-bottom: 25px;">
+        Описание: данная система созданна на базе ( не придумал пока еще думаю над идеей) независимым разработчиком.
+    </p>
+    <a href="ссылка" style="display: inline-block; background: #238636; color: #ffffff; text-decoration: none; padding: 12px 20px; border-radius: 6px; font-weight: bold; font-size: 16px;">
+    Скачать FoxOS
+</a>
+
+    <!-- Предупреждение (Яркий красный) -->
+    <p style="color: #ff4a4a; font-size: 16px; font-weight: bold; margin-bottom: 30px;">
+        The system is not stabile, this is a Nightly system.
+    </p>
+
+    <!-- Твоя кнопка для скачивания (Синяя, как на настоящих сайтах) -->
+    <a href="foxos.zip" download style="display: inline-block; background: #238636; color: #ffffff; text-decoration: none; padding: 12px 20px; border-radius: 6px; font-weight: bold; font-size: 16px;">
+        Скачать FoxOS
+    </a>
+
+</body>
+</html>
